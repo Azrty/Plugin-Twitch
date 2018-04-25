@@ -1,0 +1,14 @@
+{
+  "TWITCH__ADD__FAILED":"Vous devez mettre le pseudo de votre chaine Twitch",
+  "TWITCH_MAIN_TITLE": "Twitch",
+  "TWITCH_DEVELOPED_BY": "MrtomDev_",
+  "TWITCH_TITLE": "Configuration",
+  "TWITCH_LABEL_TITLE": "Veuillez saisir le pseudo de votre chaine Twitch",
+  "PSEUDO_INPUT_PLACEHOLDER": "Pseudo Twitch",
+  "PSEUDO_REGISTER": "Enregistrer",
+  "TWITCH_FORM_ADD_SUCCESS": "Pseudo ajouté avec succès",
+  "TWITCH_FORM_EDIT_SUCCESS": "Pseudo edité avec succès",
+  "TWITCH_FORM_LENGTH_ERROR": "Erreur",
+  "HELP": "Aide",
+  "TWITCH_FORM_EDIT_ERROR": "Impossible d'edité le Pseudo"
+}
