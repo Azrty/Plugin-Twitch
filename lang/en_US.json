@@ -1,4 +1,14 @@
 {
-  "TWITCH__ADD__EDIT":"Vidéo édité avec succès",
-  "TWITCH__ADD__FAILED":"Vous devez mettre le lien d'une vidéo"
+  "TWITCH__ADD__FAILED": "You must put the nickname of your Twitch channel",
+  "TWITCH_MAIN_TITLE": "Twitch",
+  "TWITCH_DEVELOPED_BY": "MrtomDev_",
+  "TWITCH_TITLE": "Configuration",
+  "TWITCH_LABEL_TITLE": "Please enter the nickname of your Twitch channel",
+  "PSEUDO_INPUT_PLACEHOLDER": "Nickname Twitch",
+  "PSEUDO_REGISTER": "Save",
+  "TWITCH_FORM_ADD_SUCCESS": "Nickname successfully added",
+  "TWITCH_FORM_EDIT_SUCCESS": "Nickname successfully edited",
+  "TWITCH_FORM_LENGTH_ERROR": "Error",
+  "HELP": "Help",
+  "TWITCH_FORM_EDIT_ERROR": "Cannot edit the username"
 }
